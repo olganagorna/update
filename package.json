@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "arr-union": "^3.1.0",
-    "assemble-core": "^0.25.0",
+    "assemble-core": "^0.31.0",
     "assemble-loader": "^0.6.1",
     "base-cli-process": "^0.1.18",
     "base-config-process": "^0.1.9",
